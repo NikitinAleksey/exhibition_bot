@@ -1,4 +1,4 @@
-_# Exhibition TG bot
+# Exhibition TG bot
 
 ## Описание
 
