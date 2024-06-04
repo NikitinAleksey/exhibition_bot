@@ -7,40 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad38c340-daf2-4b41-9ee4-026024b0799f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/LevbovBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avito_api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avito_api/avito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot_api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot_api/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot_api/handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot_api/keyboards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot_api/menu_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot_api/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot_api/server_requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot_api/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot_api/states.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/changed_calendar/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/changed_calendar/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/changed_calendar/schemas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/changed_calendar/simple_calendar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/google_drive_api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/google_drive_api/google_drive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log_settings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log_settings/logger_init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="ad38c340-daf2-4b41-9ee4-026024b0799f" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,6 +212,19 @@
       <option name="presentableId" value="Default" />
       <updated>1706460193224</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1717498981581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717498981581</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
