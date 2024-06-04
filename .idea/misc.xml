@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (LevbovBot)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (LevbovBot)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (ExhibitionBot)" project-jdk-type="Python SDK" />
 </project>
